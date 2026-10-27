@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Armory — Authentic Case, Souvenir & Collection Simulator",
+  "description": "Authentic Counter-Strike 2 case-opening, souvenir package, sticker capsule, 49+ weapon collection catalog, trade-up contract, and release-date audited skin collection simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
